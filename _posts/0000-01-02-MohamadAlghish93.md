@@ -1,6 +1,10 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: ""
 ---
-***Your text***
-Use the left arrow to go back!
+***End-to-End Machine Learning with TensorFlow on GCP***
+
+08/10/2019
+
+![End-to-End Machine Learning with TensorFlow on GCP](./_images/End-to-End-Machine-Learnin-gwith-TensorFlow.png)
+
