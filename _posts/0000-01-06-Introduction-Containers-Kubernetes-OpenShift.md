@@ -6,5 +6,5 @@ title: ""
 
 20/02/2021
 
-![Python Library](https://alghish.netlify.app/img/cert/Introduction%20to%20Containers,%20Kubernetes,%20and%20OpenShift.png)
+![Python Library](https://res.cloudinary.com/dzvip6v7f/image/upload/v1616821991/My%20image%20personal%20site/Introduction_to_Containers_Kubernetes_and_OpenShift_gqddf5.png)
 
